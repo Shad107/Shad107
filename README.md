@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="isno-wave.svg" width="76" height="76" alt="ISNO" />
+  <img src="isno-wave.svg" width="210" alt="ISNO" />
 </p>
 
 ### Hi, I'm Olivier 👋
