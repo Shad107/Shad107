@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="isno-wave.svg" width="76" height="76" alt="ISNO" />
+</p>
+
 ### Hi, I'm Olivier 👋
 
 Senior software engineer. I build **self-hosted IoT, home automation and open hardware**, and I run **local LLMs** with an eye on **AI reliability**.
